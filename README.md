@@ -4,7 +4,8 @@
 
 **Packages we use:**
 
-> [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view) > [flutter_svg](https://pub.dev/packages/flutter_svg)
+ [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)
+ [flutter_svg](https://pub.dev/packages/flutter_svg)
 
 Design made by by simantOo [link](https://www.uplabs.com/posts/course-app-free)
 
