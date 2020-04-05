@@ -1,4 +1,4 @@
-# Course App- Flutter UI
+# Course App - Flutter UI
 
 ## [Whatch it on yourube(comming soon)](#)
 
