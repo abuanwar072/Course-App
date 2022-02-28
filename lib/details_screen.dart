@@ -212,7 +212,7 @@ class CourseContent extends StatelessWidget {
               fontSize: 32,
             ),
           ),
-          SizedBox(width: 20),
+          SizedBox(width: 8),
           RichText(
             text: TextSpan(
               children: [
